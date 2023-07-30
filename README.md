@@ -19,7 +19,7 @@
 </p> 
 <br/>
 <br/>
-<p>
+<p style="align: center;">
   <img src="screenshots/CrownClub-EM-1016.png" alt="Lazydays Email">  
 </p> 
 
