@@ -29,8 +29,10 @@
 
 <br/>
 <br/>
-## Lexus (Live Demo)
+## Lexus
 
-[Live Demo](a href="exhilaration-invite.html" target="_blank")
+<p align="center">
+  <img src="screenshots/Lexus-Exhilaration-Email.png" alt="Lexus Email">  
+</p> 
 
 
