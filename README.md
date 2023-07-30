@@ -31,8 +31,6 @@
 <br/>
 ## Lexus (Live Demo)
 
-<p align="center">
-  <a href="exhilaration-invite.html" target="_blank">  
-</p> 
+[Live Demo](a href="exhilaration-invite.html" target="_blank")
 
 
