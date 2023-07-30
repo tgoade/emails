@@ -32,7 +32,7 @@
 ## Lexus
 
 <p align="center">
-  <img src="screenshots/Lexus-Exhilaration-Email.png" alt="Lexus Email">  
+  <img src="screenshots/Lexus-Exhilaration.png" alt="Lexus Email">  
 </p> 
 
 
